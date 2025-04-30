@@ -74,6 +74,10 @@
               "target": "Package",
               "version": "[6.0.2, )"
             },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
             "xunit.core": {
               "target": "Package",
               "version": "[2.9.3, )"

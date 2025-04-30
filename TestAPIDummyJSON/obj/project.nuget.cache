@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oIjyDQgX8GU=",
+  "dgSpecHash": "ry0qlPDZXco=",
   "success": true,
   "projectFilePath": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\TestAPIDummyJSON.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "C:\\Users\\rsavchuk\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\rsavchuk\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\rsavchuk\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\rsavchuk\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
     "C:\\Users\\rsavchuk\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
     "C:\\Users\\rsavchuk\\.nuget\\packages\\xunit.dependencyinjection\\9.8.0\\xunit.dependencyinjection.9.8.0.nupkg.sha512",
     "C:\\Users\\rsavchuk\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",

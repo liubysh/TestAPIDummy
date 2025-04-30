@@ -1,12 +1,138 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|c:\\users\\rsavchuk\\olya\\testapidummyjson\\testapidummyjson\\basictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|solutionrelative:testapidummyjson\\basictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|c:\\users\\rsavchuk\\olya\\testapidummyjson\\testapidummyjson\\base\\restbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|solutionrelative:testapidummyjson\\base\\restbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|c:\\users\\rsavchuk\\olya\\testapidummyjson\\testapidummyjson\\base\\restlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|solutionrelative:testapidummyjson\\base\\restlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|c:\\users\\rsavchuk\\olya\\testapidummyjson\\testapidummyjson\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|solutionrelative:testapidummyjson\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|c:\\users\\rsavchuk\\olya\\testapidummyjson\\testapidummyjson\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|solutionrelative:testapidummyjson\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|c:\\users\\rsavchuk\\olya\\testapidummyjson\\testapidummyjson\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|solutionrelative:testapidummyjson\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|c:\\users\\rsavchuk\\olya\\testapidummyjson\\testapidummyjson\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E997CE-DDB2-48B0-AB77-CE0D2FC2C681}|TestAPIDummyJSON\\TestAPIDummyJSON.csproj|solutionrelative:testapidummyjson\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "TestAPIDummyJSON\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Status.cs",
+              "RelativeToolTip": "TestAPIDummyJSON\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:18:28.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "TestAPIDummyJSON\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Pet.cs",
+              "RelativeToolTip": "TestAPIDummyJSON\\Models\\Pet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:13:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TestAPIDummyJSON\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Category.cs",
+              "RelativeToolTip": "TestAPIDummyJSON\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:11:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "TestAPIDummyJSON\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Models\\Tag.cs",
+              "RelativeToolTip": "TestAPIDummyJSON\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:11:01.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Base\\RestLibrary.cs",
+              "RelativeDocumentMoniker": "TestAPIDummyJSON\\Base\\RestLibrary.cs",
+              "ToolTip": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Base\\RestLibrary.cs",
+              "RelativeToolTip": "TestAPIDummyJSON\\Base\\RestLibrary.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:08:20.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Base\\RestBuilder.cs",
+              "RelativeDocumentMoniker": "TestAPIDummyJSON\\Base\\RestBuilder.cs",
+              "ToolTip": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\Base\\RestBuilder.cs",
+              "RelativeToolTip": "TestAPIDummyJSON\\Base\\RestBuilder.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:53:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicTests.cs",
+              "DocumentMoniker": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\BasicTests.cs",
+              "RelativeDocumentMoniker": "TestAPIDummyJSON\\BasicTests.cs",
+              "ToolTip": "C:\\Users\\rsavchuk\\Olya\\TestAPIDummyJSON\\TestAPIDummyJSON\\BasicTests.cs",
+              "RelativeToolTip": "TestAPIDummyJSON\\BasicTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:42:32.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
