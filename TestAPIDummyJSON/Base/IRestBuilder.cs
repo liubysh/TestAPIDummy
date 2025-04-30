@@ -16,5 +16,6 @@ namespace TestAPIDummyJSON.Base
         Task<T?> WithPost<T>();
         Task<T?> WithPut<T>();
         Task<RestResponse> WithPost();
+        Task<RestResponse> WithDelete();
     }
 }

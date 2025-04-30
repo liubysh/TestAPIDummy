@@ -14,19 +14,6 @@ namespace TestAPIDummyJSON
         public BasicTests(IRestFactory restFactory) => _restFactory = restFactory;
 
         [Fact]
-        public async Task GetAnimalByIdTest() //Get animals by id test
-        {
-            var response = await _restFactory.Create()
-            .WithRequest("pet/{id}")
-            .WithHeader("Accept", "application/json")
-            .WithUrlSegment("id", "17171717")
-            .WithGet<Pet>();
-
-            //Assert
-            response?.Id.Should().Be(17171717);
-        }
-
-        [Fact]
         public async Task GetListOfAnimalsByStatusTest() //Get animals by status test
         {
             var response = await _restFactory.Create()
@@ -63,5 +50,30 @@ namespace TestAPIDummyJSON
             response?.Id.Should().Be(17171717);
         }
 
+        [Fact]
+        public async Task GetAnimalByIdTest() //Get animals by id test
+        {
+            var response = await _restFactory.Create()
+            .WithRequest("pet/{id}")
+            .WithHeader("Accept", "application/json")
+            .WithUrlSegment("id", "17171717")
+            .WithGet<Pet>();
+
+            //Assert
+            response?.Id.Should().Be(17171717);
+        }
+
+        [Fact]
+        public async Task DeleteAnimalByIdTest() //Delete animals by id test
+        {
+            var response = await _restFactory.Create()
+            .WithRequest("pet/{id}")
+            .WithHeader("Accept", "application/json")
+            .WithUrlSegment("id", "17171717")
+            .WithDelete();
+
+            //Assert
+            response.StatusCode.Should().Be(HttpStatusCode.OK);//should be204, but this api is created in this way
+        }
     }
 }

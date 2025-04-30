@@ -77,6 +77,11 @@ namespace TestAPIDummyJSON.Base
             return _restLibrary.RestClient.DeleteAsync<T>(RestRequest);
         }
 
+        public Task<RestResponse> WithDelete()
+        {
+            return _restLibrary.RestClient.DeleteAsync(RestRequest);
+        }
+
         public Task<T?> WithPatch<T>()
         {
             return _restLibrary.RestClient.PatchAsync<T>(RestRequest);

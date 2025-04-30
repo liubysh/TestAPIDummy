@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestAPIDummyJSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b92d8ff56f072d754488cc1a0ad3a4513662a6ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb73e843358277e414f271afd4f4d1463468535d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestAPIDummyJSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestAPIDummyJSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
